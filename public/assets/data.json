@@ -1,0 +1,175 @@
+[
+    {
+        "id":0,
+        "category":[
+            {"id":1},
+            {"name":"headphones"}
+        ],
+        "productName":"X Smoke Beta C",
+        "price": 99.99,
+        "bgheader":"headset",
+        "description":[
+            {"header" : "Immersive Sound Quality","text":"Experience gaming like never before with our state-of-the-art headset, delivering rich, high-fidelity audio that brings every explosion, footstep, and soundtrack to life. With powerful drivers and surround sound capabilities, you'll feel right in the middle of the action."},
+            {"header" : "Comfortable Design","text":"Play for hours without discomfort. Our gaming headset features plush ear cushions and an adjustable headband that ensures a perfect fit for extended gaming sessions. The lightweight design minimizes pressure, allowing you to focus on your game."},
+            {"header" : "Crystal Clear Communication","text":"Stay connected with your team through our noise-canceling microphone, which filters out background noise for clear and precise communication. The flexible, adjustable boom mic can be positioned exactly where you need it or flipped up out of the way when not in use."},
+            {"header" : "Versatile Compatibility","text":"Our headset is designed to work seamlessly with a wide range of devices, including PCs, consoles, and mobile devices. With its universal 3.5mm jack and USB connection options, you can easily switch between platforms without any hassle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/headphones/hyperx_headphones_1.png"}
+        ]
+    },
+    {
+        "id":1,
+        "category":[
+            {"id":2},
+            {"name":"headphones"}
+        ],
+        "productName":"Indorfy Vero",
+        "price": 69.99,
+        "bgheader":"headset",
+        "description":[
+            {"header" : "Immersive Sound Quality","text":"Experience gaming like never before with our state-of-the-art headset, delivering rich, high-fidelity audio that brings every explosion, footstep, and soundtrack to life. With powerful drivers and surround sound capabilities, you'll feel right in the middle of the action."},
+            {"header" : "Comfortable Design","text":"Play for hours without discomfort. Our gaming headset features plush ear cushions and an adjustable headband that ensures a perfect fit for extended gaming sessions. The lightweight design minimizes pressure, allowing you to focus on your game."},
+            {"header" : "Crystal Clear Communication","text":"Stay connected with your team through our noise-canceling microphone, which filters out background noise for clear and precise communication. The flexible, adjustable boom mic can be positioned exactly where you need it or flipped up out of the way when not in use."},
+            {"header" : "Versatile Compatibility","text":"Our headset is designed to work seamlessly with a wide range of devices, including PCs, consoles, and mobile devices. With its universal 3.5mm jack and USB connection options, you can easily switch between platforms without any hassle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/headphones/endorfy_headphones_1.png"}
+        ]
+    },
+    {
+        "id":2,
+        "category":[
+            {"id":3},
+            {"name":"headphones"}
+        ],
+        "productName":"G Pro X Lightspeed",
+        "price": 119.99,
+        "bgheader":"headset",
+        "description":[
+            {"header" : "Immersive Sound Quality","text":"Experience gaming like never before with our state-of-the-art headset, delivering rich, high-fidelity audio that brings every explosion, footstep, and soundtrack to life. With powerful drivers and surround sound capabilities, you'll feel right in the middle of the action."},
+            {"header" : "Comfortable Design","text":"Play for hours without discomfort. Our gaming headset features plush ear cushions and an adjustable headband that ensures a perfect fit for extended gaming sessions. The lightweight design minimizes pressure, allowing you to focus on your game."},
+            {"header" : "Crystal Clear Communication","text":"Stay connected with your team through our noise-canceling microphone, which filters out background noise for clear and precise communication. The flexible, adjustable boom mic can be positioned exactly where you need it or flipped up out of the way when not in use."},
+            {"header" : "Versatile Compatibility","text":"Our headset is designed to work seamlessly with a wide range of devices, including PCs, consoles, and mobile devices. With its universal 3.5mm jack and USB connection options, you can easily switch between platforms without any hassle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/headphones/logitech_headphones_1.png"}
+        ]
+    },
+
+    {
+        "id":3,
+        "category":[
+            {"id":1},
+            {"name":"keyboard"}
+        ],
+        "productName":"X Alloy Origins",
+        "price":109.99,
+        "bgheader":"keyboard",
+        "description":[
+            {"header" : "Responsive Mechanical Switches", "text":"Achieve peak performance with our gaming keyboard featuring responsive mechanical switches. Each keystroke is precise and tactile, ensuring fast, accurate inputs for even the most demanding games. Enjoy the satisfying click with every press."},
+            {"header" : "Customizable RGB Lighting", "text":"Illuminate your gaming setup with customizable RGB lighting. Choose from millions of colors and various lighting effects to create your unique gaming atmosphere. Sync the lighting with your in-game actions for an immersive experience."},
+            {"header" : "Durable Build Quality", "text":"Built to withstand the rigors of intense gaming, our keyboard boasts a robust construction with high-quality materials. The keys are designed for long-lasting durability, supporting millions of keystrokes, so you can play with confidence."},
+            {"header" : "Programmable Keys and Macros", "text":"Enhance your gameplay with programmable keys and macro support. Assign complex commands and shortcuts to dedicated keys, streamlining your actions and giving you a competitive edge. Easily customize your setup to suit your playstyle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/keyboards/hyperx_keyboard_1.png"}
+        ]
+    },
+    {
+        "id":4,
+        "category":[
+            {"id":2},
+            {"name":"keyboard"}
+        ],
+        "productName":"Lazer Widow v3",
+        "price":129.99,
+        "bgheader":"keyboard",
+        "description":[
+            {"header" : "Responsive Mechanical Switches", "text":"Achieve peak performance with our gaming keyboard featuring responsive mechanical switches. Each keystroke is precise and tactile, ensuring fast, accurate inputs for even the most demanding games. Enjoy the satisfying click with every press."},
+            {"header" : "Customizable RGB Lighting", "text":"Illuminate your gaming setup with customizable RGB lighting. Choose from millions of colors and various lighting effects to create your unique gaming atmosphere. Sync the lighting with your in-game actions for an immersive experience."},
+            {"header" : "Durable Build Quality", "text":"Built to withstand the rigors of intense gaming, our keyboard boasts a robust construction with high-quality materials. The keys are designed for long-lasting durability, supporting millions of keystrokes, so you can play with confidence."},
+            {"header" : "Programmable Keys and Macros", "text":"Enhance your gameplay with programmable keys and macro support. Assign complex commands and shortcuts to dedicated keys, streamlining your actions and giving you a competitive edge. Easily customize your setup to suit your playstyle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/keyboards/razer_keyboard_1.png"}
+        ]
+    },
+    {
+        "id":5,
+        "category":[
+            {"id":3},
+            {"name":"keyboard"}
+        ],
+        "productName":"G Pro GX",
+        "price":89.99,
+        "bgheader":"keyboard",
+        "description":[
+            {"header" : "Responsive Mechanical Switches", "text":"Achieve peak performance with our gaming keyboard featuring responsive mechanical switches. Each keystroke is precise and tactile, ensuring fast, accurate inputs for even the most demanding games. Enjoy the satisfying click with every press."},
+            {"header" : "Customizable RGB Lighting", "text":"Illuminate your gaming setup with customizable RGB lighting. Choose from millions of colors and various lighting effects to create your unique gaming atmosphere. Sync the lighting with your in-game actions for an immersive experience."},
+            {"header" : "Durable Build Quality", "text":"Built to withstand the rigors of intense gaming, our keyboard boasts a robust construction with high-quality materials. The keys are designed for long-lasting durability, supporting millions of keystrokes, so you can play with confidence."},
+            {"header" : "Programmable Keys and Macros", "text":"Enhance your gameplay with programmable keys and macro support. Assign complex commands and shortcuts to dedicated keys, streamlining your actions and giving you a competitive edge. Easily customize your setup to suit your playstyle."}
+        ],
+        "images":[
+            {"image" : "/assets/images/keyboards/logitech_keyboard_1.png"}
+        ]
+    },
+
+    {
+        "id":6,
+        "category":[
+            {"id":1},
+            {"name":"mouse"}
+        ],
+        "productName":"X Pulsefire Haste 2 Mini",
+        "price":79.99,
+        "bgheader":"mouse",
+        "description":[
+            {"header" : "Precision Tracking", "text":"Experience pinpoint accuracy with our gaming wireless mouse, featuring advanced optical sensors. Each movement is captured with exceptional precision, ensuring smooth and responsive tracking for all your gaming needs."},
+            {"header" : "Ergonomic Design", "text":"Play comfortably for hours with our ergonomic mouse design. Its contoured shape fits naturally in your hand, reducing strain during extended gaming sessions. The lightweight build provides effortless control and agility."},
+            {"header" : "Customizable RGB Lighting", "text":"Add a personal touch to your gaming setup with customizable RGB lighting. Choose from a spectrum of colors and effects to match your style. Sync the lighting with your gameplay for an immersive visual experience."},
+            {"header" : "Long-Lasting Battery Life", "text":"Stay in the game longer with our mouse's long-lasting battery life. Designed for extended play, it ensures you won't be interrupted by frequent recharges. Enjoy hours of uninterrupted gaming on a single charge."}
+        ],
+        "images":[
+            {"image" : "/assets/images/mice/hyperx_mouse_1.png"}
+        ]
+    },
+    {
+        "id":7,
+        "category":[
+            {"id":2},
+            {"name":"mouse"}
+        ],
+        "productName":"SSeries Reval 3",
+        "price":89.99,
+        "bgheader":"mouse",
+        "description":[
+            {"header" : "Precision Tracking", "text":"Experience pinpoint accuracy with our gaming wireless mouse, featuring advanced optical sensors. Each movement is captured with exceptional precision, ensuring smooth and responsive tracking for all your gaming needs."},
+            {"header" : "Ergonomic Design", "text":"Play comfortably for hours with our ergonomic mouse design. Its contoured shape fits naturally in your hand, reducing strain during extended gaming sessions. The lightweight build provides effortless control and agility."},
+            {"header" : "Customizable RGB Lighting", "text":"Add a personal touch to your gaming setup with customizable RGB lighting. Choose from a spectrum of colors and effects to match your style. Sync the lighting with your gameplay for an immersive visual experience."},
+            {"header" : "Long-Lasting Battery Life", "text":"Stay in the game longer with our mouse's long-lasting battery life. Designed for extended play, it ensures you won't be interrupted by frequent recharges. Enjoy hours of uninterrupted gaming on a single charge."}
+        ],
+        "images":[
+            {"image" : "/assets/images/mice/steelseries_mouse_1.png"}
+        ]
+    },
+    {
+        "id":8,
+        "category":[
+            {"id":3},
+            {"name":"mouse"}
+        ],
+        "productName":"G G305 Superspeed",
+        "price":69.99,
+        "bgheader":"mouse",
+        "description":[
+            {"header" : "Precision Tracking", "text":"Experience pinpoint accuracy with our gaming wireless mouse, featuring advanced optical sensors. Each movement is captured with exceptional precision, ensuring smooth and responsive tracking for all your gaming needs."},
+            {"header" : "Ergonomic Design", "text":"Play comfortably for hours with our ergonomic mouse design. Its contoured shape fits naturally in your hand, reducing strain during extended gaming sessions. The lightweight build provides effortless control and agility."},
+            {"header" : "Customizable RGB Lighting", "text":"Add a personal touch to your gaming setup with customizable RGB lighting. Choose from a spectrum of colors and effects to match your style. Sync the lighting with your gameplay for an immersive visual experience."},
+            {"header" : "Long-Lasting Battery Life", "text":"Stay in the game longer with our mouse's long-lasting battery life. Designed for extended play, it ensures you won't be interrupted by frequent recharges. Enjoy hours of uninterrupted gaming on a single charge."}
+        ],
+        "images":[
+            {"image" : "/assets/images/mice/logitech_mouse_1.png"}
+        ]
+    }
+]
